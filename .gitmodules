@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MEclustnet"]
 	path = MEclustnet
 	url = https://github.com/cran/MEclustnet
-	shallow = true
-	registered = true
 [submodule "MetabolAnalyze"]
 	path = MetabolAnalyze
 	url = https://github.com/cran/MetabolAnalyze
-	shallow = true
-	registered = true
